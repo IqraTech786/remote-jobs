@@ -313,6 +313,7 @@ Name | Website | Region
 [iOS App Templates](/company-profiles/ios-app-templates.md) | https://www.iosapptemplates.com/ | Worldwide
 [IPInfo](/company-profiles/ipinfo.md) | https://ipinfo.io/ | Worldwide
 [IPS Group, Inc.](/company-profiles/ips-group-inc.md) | https://www.ipsgroupinc.com/ | USA
+[Iqra Technology](/company-profiles/iqra-technology.md) | qratechnology.com | Worldwide
 [iRonin](/company-profiles/ironin.md) | https://www.ironin.it/ | Worldwide
 [Iterative](/company-profiles/iterative.md) | https://www.iterative.ai/ | Worldwide
 [iwantmyname](/company-profiles/iwantmyname.md) | https://iwantmyname.com/ | Worldwide
